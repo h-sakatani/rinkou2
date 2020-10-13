@@ -2,7 +2,7 @@
 
 ----
 
-## Q1-4　sakatani_rinkou.ipynb　##
+## Q1-4　sakatani_rinkou.ipynb ##
 
 - Q1:　the figure with the y-axis scale from 0 to 4
 
